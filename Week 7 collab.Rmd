@@ -1,0 +1,22 @@
+---
+title: "Week7_collab"
+author: "Katherine Orellana"
+date: "11/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey, here is a code chunk where you can work: 
+```{r, Sachiko}
+
+```
+
+
+Here is a code chunk where I will work: 
+```{r, Kat}
+
+```
+
